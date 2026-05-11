@@ -94,4 +94,4 @@ Example:
 
 ## Conclusion
 
-This project helped in understanding how to use conditions, functions, and user input in Python. It is a simple but useful program for beginners.
+This project helped in understanding how to use conditions, functions, and user input in Python. It is a simple but useful program for beginners
